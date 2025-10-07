@@ -1,7 +1,4 @@
 target:
-  - url: "docs/"
-  - url: "examples/"
-
-include:  []
+  - url: "https://github.com/shailinjain-wq/Vastu/blob/main/Example"
 
 reinit: "a-random-string"
