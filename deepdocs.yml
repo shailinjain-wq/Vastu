@@ -1,4 +1,4 @@
 target:
-  - url: "https://github.com/shailinjain-wq/Vastu/blob/main/Example"
+  - url: "Example.php"
 
 reinit: "a-random-string"
