@@ -1,4 +1,4 @@
 target:
-  - url: "Example.php"
+  - url: "Sample.php"
 
 reinit: "a-random-string"
